@@ -1,0 +1,7 @@
+echo "# bch" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git ブランチ -M main 
+git リモート addorigin https://github.com/graziepippo/bch.git
+ git Push -原点メイン
